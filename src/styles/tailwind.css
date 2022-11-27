@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+    
+  width: 100%; /* Full width */
+  background-color: #ddd; /* Grey background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 20px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.java {width: 90%; background-color: gray;} 
+.python {width: 85%; background-color: gray;} 
+.js {width: 80%; background-color: gray;}
+.html {width: 70%; background-color: gray;} 
+.r {width: 65%; background-color: gray;} 
+.css {width: 60%; background-color: gray;} 
+.c {width: 50%; background-color: gray;}
