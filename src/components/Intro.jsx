@@ -9,7 +9,8 @@ function Intro() {
           
             Hi! I am a first year student at Purdue University,
             with expectations to graduate in May 2025! My interests include software development, artificial intelligence, machine learning,
-            and data science. Here is my{' '}
+            and data science. In the past, I have interned at Quantic as a automation engineer. Me and the team utilized Python and Selenium framework
+            to review tohe software systems and functionalities. Here is my{' '}
             <a
                href="/assets/StanleyKimResume.pdf"
                target="_blank"
