@@ -9,7 +9,7 @@ export default [
       title: 'Developer Portfolio',
       imgUrl: '/assets/Portfolio.jpg',
       stack: ['React', 'Tailwind', 'Vite'],
-      link: 'https://thehackershideout.com',
+      link: 'https://github.com/kim4111/personal-portfolio',
    },
    {
       title: 'Pathfinding Algorithm Visualizer',
